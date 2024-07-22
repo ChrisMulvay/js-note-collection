@@ -1,8 +1,7 @@
 
 # JavaScript Best Practices
 
-Today JavaScript is a powerful language if you compare it with today's modern JavaScript to its origins at Netscape in the mid 90's.
-With such powerful features it's important optimize JavaScript to gain significant improvements in performance, maintainability, and scalability. This documents hightlights some best practices to guide developers in optimizing their JavaScript code and is suitable for both beginners and more experienced developers.
+Today JavaScript is a powerful language when you compare it with its origins at Netscape in the mid 90's. With such powerful features it's important optimize JavaScript to gain significant improvements in performance, maintainability, and scalability. This documents hightlights some best practices to guide developers in optimizing their JavaScript code and is suitable for both beginners and more experienced developers.
 
 ## 1. Code Organization Best Practices
 
